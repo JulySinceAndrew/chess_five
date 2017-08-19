@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>imges/白棋(2).png</file>
+        <file>imges/登录2.jpg</file>
+        <file>imges/黑棋.png</file>
+        <file>imges/棋盘.jpg</file>
+        <file>imges/胜利1.jpg</file>
+    </qresource>
+</RCC>
